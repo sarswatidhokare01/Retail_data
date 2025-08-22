@@ -7,9 +7,9 @@
 storage_account_name = "retaildatasa"
 container_name = "retail-data"
 mount_point = "data"
-client_id = "eb8a46fc-00d4-451c-bb8b-933d70921cac"
-tenant_id = "aa8e3736-bc80-424d-b88e-addd374f0dee"
-client_secret ="8mG8Q~tuSTnJNjLJC7bOASlQjfyckVv2GoXLvcl8"
+client_id = "***********************"
+tenant_id = "************************"
+client_secret ="*****************************"
 
 # COMMAND ----------
 
